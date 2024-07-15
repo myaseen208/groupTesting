@@ -33,6 +33,13 @@ navbar:
     - icon: fa-code
       text: Reference
       href: reference/index.html
+    - icon: fa-file-o
+      text: Vignette
+      menu:
+      - text: "Functions"
+        href: articles/groupTesting_Functions.pdf
+      - text: "Documentation"
+        href: articles/groupTesting_Documentation.pdf
     - icon: fa-newspaper-o
       text: News
       href: news/index.html
