@@ -1,0 +1,44 @@
+url: https://myaseen208.github.io/groupTesting/
+
+home:
+  title: groupTesting
+  description: Simulating and Modeling Group (Pooled) Testing Data
+
+template:
+  params:
+    bootswatch: united
+    ganalytics: UA-116716530-2
+    docsearch:
+      api_key: bdafb7ea4490644e670f470ee3ef537f
+      index_name: groupTesting
+
+toc:
+  depth: 3
+
+authors:
+  Md S. Warasi:
+    href: https://www1.radford.edu/content/csat/home/math/faculty.html
+
+development:
+  mode: unreleased
+
+
+navbar:
+  title: groupTesting
+  type: default
+  left:
+    - icon: fa-home fa-lg
+      text: Home
+      href: index.html
+    - icon: fa-code
+      text: Reference
+      href: reference/index.html
+    - icon: fa-newspaper-o
+      text: News
+      href: news/index.html
+  right:
+    - icon: "fa-github"
+      href: https://github.com/myaseen208/groupTesting
+    - text: "RG"
+      href: https://cloud.r-project.org/web/packages/groupTesting/index.html
+reference:

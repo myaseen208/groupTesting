@@ -1,33 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>/404.html</loc>
-  </url>
-  <url>
-    <loc>/authors.html</loc>
-  </url>
-  <url>
-    <loc>/index.html</loc>
-  </url>
-  <url>
-    <loc>/reference/array.gt.simulation.html</loc>
-  </url>
-  <url>
-    <loc>/reference/glm.gt.html</loc>
-  </url>
-  <url>
-    <loc>/reference/glmLink.html</loc>
-  </url>
-  <url>
-    <loc>/reference/hier.gt.simulation.html</loc>
-  </url>
-  <url>
-    <loc>/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>/reference/prop.gt.html</loc>
-  </url>
-  <url>
-    <loc>/reference/waldTest.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://myaseen208.github.io/groupTesting/404.html</loc></url>
+<url><loc>https://myaseen208.github.io/groupTesting/authors.html</loc></url>
+<url><loc>https://myaseen208.github.io/groupTesting/index.html</loc></url>
+<url><loc>https://myaseen208.github.io/groupTesting/reference/array.gt.simulation.html</loc></url>
+<url><loc>https://myaseen208.github.io/groupTesting/reference/glm.gt.html</loc></url>
+<url><loc>https://myaseen208.github.io/groupTesting/reference/glmLink.html</loc></url>
+<url><loc>https://myaseen208.github.io/groupTesting/reference/hier.gt.simulation.html</loc></url>
+<url><loc>https://myaseen208.github.io/groupTesting/reference/index.html</loc></url>
+<url><loc>https://myaseen208.github.io/groupTesting/reference/prop.gt.html</loc></url>
+<url><loc>https://myaseen208.github.io/groupTesting/reference/waldTest.html</loc></url>
 </urlset>
+
